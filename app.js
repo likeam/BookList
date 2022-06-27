@@ -24,6 +24,7 @@
         list.appendChild(row);
     }
     
+    
     // Clear Fields
     UI.prototype.clearFields = function() {
         document.getElementById('title').value = '';
